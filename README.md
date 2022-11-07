@@ -1,5 +1,7 @@
 #My deployed address for hello-world and callcontract with token on the [Testnet](https://testnet.axelarscan.io/address/0x42cfaAe209149007f304c51AF1a0c985c292f740).
 
+Please copy this address`0x42cfaAe209149007f304c51AF1a0c985c292f740`and check it on axelar testnet if the above link is not working.
+
 
 
 
